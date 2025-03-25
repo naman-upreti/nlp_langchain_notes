@@ -1,0 +1,1001 @@
+ID,Text,Sentiment
+1,"A total waste of money, do not buy this.",Negative
+2,"I absolutely love this product, it works great!",Positive
+3,"This was a terrible experience, I regret it completely.",Negative
+4,"I absolutely love this product, it works great!",Positive
+5,"The product is average, works as expected.",Neutral
+6,"A total waste of money, do not buy this.",Negative
+7,"The product is average, works as expected.",Neutral
+8,"The product is average, works as expected.",Neutral
+9,"I am extremely disappointed, this product is awful.",Negative
+10,"Neither good nor bad, just a normal experience.",Neutral
+11,This is the best purchase I have made in a long time.,Positive
+12,Highly recommended! Exceeded my expectations.,Positive
+13,"It's okay, nothing special but not bad either.",Neutral
+14,"The product is average, works as expected.",Neutral
+15,This is the best purchase I have made in a long time.,Positive
+16,"I am extremely disappointed, this product is awful.",Negative
+17,"Decent quality, but nothing extraordinary.",Neutral
+18,"It's okay, nothing special but not bad either.",Neutral
+19,"I am extremely disappointed, this product is awful.",Negative
+20,"An average experience, not much to say.",Neutral
+21,"The service was outstanding, I am very satisfied.",Positive
+22,"Fantastic quality, I will definitely buy again.",Positive
+23,"Fantastic quality, I will definitely buy again.",Positive
+24,This is the best purchase I have made in a long time.,Positive
+25,"An average experience, not much to say.",Neutral
+26,"This was a terrible experience, I regret it completely.",Negative
+27,Highly recommended! Exceeded my expectations.,Positive
+28,"Worst decision ever, I would not recommend this.",Negative
+29,"Worst decision ever, I would not recommend this.",Negative
+30,"Neither good nor bad, just a normal experience.",Neutral
+31,"Worst decision ever, I would not recommend this.",Negative
+32,"Fantastic quality, I will definitely buy again.",Positive
+33,"The service was outstanding, I am very satisfied.",Positive
+34,"Worst decision ever, I would not recommend this.",Negative
+35,"The product is average, works as expected.",Neutral
+36,"I am extremely disappointed, this product is awful.",Negative
+37,"I am extremely disappointed, this product is awful.",Negative
+38,"An average experience, not much to say.",Neutral
+39,"This was a terrible experience, I regret it completely.",Negative
+40,"This was a terrible experience, I regret it completely.",Negative
+41,"Fantastic quality, I will definitely buy again.",Positive
+42,"The service was outstanding, I am very satisfied.",Positive
+43,"Neither good nor bad, just a normal experience.",Neutral
+44,Highly recommended! Exceeded my expectations.,Positive
+45,"I absolutely love this product, it works great!",Positive
+46,"An average experience, not much to say.",Neutral
+47,This is the best purchase I have made in a long time.,Positive
+48,"Worst decision ever, I would not recommend this.",Negative
+49,"I absolutely love this product, it works great!",Positive
+50,"I absolutely love this product, it works great!",Positive
+51,"The service was outstanding, I am very satisfied.",Positive
+52,"Worst decision ever, I would not recommend this.",Negative
+53,"The service was outstanding, I am very satisfied.",Positive
+54,"Neither good nor bad, just a normal experience.",Neutral
+55,"Neither good nor bad, just a normal experience.",Neutral
+56,Highly recommended! Exceeded my expectations.,Positive
+57,"Worst decision ever, I would not recommend this.",Negative
+58,"Fantastic quality, I will definitely buy again.",Positive
+59,This is the best purchase I have made in a long time.,Positive
+60,"An average experience, not much to say.",Neutral
+61,"A total waste of money, do not buy this.",Negative
+62,"Fantastic quality, I will definitely buy again.",Positive
+63,"An average experience, not much to say.",Neutral
+64,"A total waste of money, do not buy this.",Negative
+65,"This was a terrible experience, I regret it completely.",Negative
+66,Highly recommended! Exceeded my expectations.,Positive
+67,"Decent quality, but nothing extraordinary.",Neutral
+68,"Poor quality and bad service, not worth the money.",Negative
+69,"Worst decision ever, I would not recommend this.",Negative
+70,"Fantastic quality, I will definitely buy again.",Positive
+71,Highly recommended! Exceeded my expectations.,Positive
+72,"A total waste of money, do not buy this.",Negative
+73,"Poor quality and bad service, not worth the money.",Negative
+74,"It's okay, nothing special but not bad either.",Neutral
+75,"A total waste of money, do not buy this.",Negative
+76,"It's okay, nothing special but not bad either.",Neutral
+77,"I am extremely disappointed, this product is awful.",Negative
+78,"An average experience, not much to say.",Neutral
+79,"I am extremely disappointed, this product is awful.",Negative
+80,"Poor quality and bad service, not worth the money.",Negative
+81,"The service was outstanding, I am very satisfied.",Positive
+82,This is the best purchase I have made in a long time.,Positive
+83,"Poor quality and bad service, not worth the money.",Negative
+84,"Worst decision ever, I would not recommend this.",Negative
+85,"This was a terrible experience, I regret it completely.",Negative
+86,"This was a terrible experience, I regret it completely.",Negative
+87,"An average experience, not much to say.",Neutral
+88,"Fantastic quality, I will definitely buy again.",Positive
+89,This is the best purchase I have made in a long time.,Positive
+90,"An average experience, not much to say.",Neutral
+91,"It's okay, nothing special but not bad either.",Neutral
+92,This is the best purchase I have made in a long time.,Positive
+93,This is the best purchase I have made in a long time.,Positive
+94,"I absolutely love this product, it works great!",Positive
+95,"Poor quality and bad service, not worth the money.",Negative
+96,"Decent quality, but nothing extraordinary.",Neutral
+97,"A total waste of money, do not buy this.",Negative
+98,"This was a terrible experience, I regret it completely.",Negative
+99,"It's okay, nothing special but not bad either.",Neutral
+100,"Fantastic quality, I will definitely buy again.",Positive
+101,This is the best purchase I have made in a long time.,Positive
+102,"I am extremely disappointed, this product is awful.",Negative
+103,"Fantastic quality, I will definitely buy again.",Positive
+104,"This was a terrible experience, I regret it completely.",Negative
+105,"It's okay, nothing special but not bad either.",Neutral
+106,Highly recommended! Exceeded my expectations.,Positive
+107,"Neither good nor bad, just a normal experience.",Neutral
+108,"This was a terrible experience, I regret it completely.",Negative
+109,Highly recommended! Exceeded my expectations.,Positive
+110,"The service was outstanding, I am very satisfied.",Positive
+111,"I am extremely disappointed, this product is awful.",Negative
+112,"The service was outstanding, I am very satisfied.",Positive
+113,"Poor quality and bad service, not worth the money.",Negative
+114,"Fantastic quality, I will definitely buy again.",Positive
+115,"The service was outstanding, I am very satisfied.",Positive
+116,"An average experience, not much to say.",Neutral
+117,"Neither good nor bad, just a normal experience.",Neutral
+118,"Poor quality and bad service, not worth the money.",Negative
+119,"I absolutely love this product, it works great!",Positive
+120,"This was a terrible experience, I regret it completely.",Negative
+121,"Decent quality, but nothing extraordinary.",Neutral
+122,"The service was outstanding, I am very satisfied.",Positive
+123,"I am extremely disappointed, this product is awful.",Negative
+124,"Worst decision ever, I would not recommend this.",Negative
+125,"I absolutely love this product, it works great!",Positive
+126,"It's okay, nothing special but not bad either.",Neutral
+127,"Worst decision ever, I would not recommend this.",Negative
+128,"The service was outstanding, I am very satisfied.",Positive
+129,"It's okay, nothing special but not bad either.",Neutral
+130,"This was a terrible experience, I regret it completely.",Negative
+131,"The service was outstanding, I am very satisfied.",Positive
+132,This is the best purchase I have made in a long time.,Positive
+133,"Worst decision ever, I would not recommend this.",Negative
+134,"Fantastic quality, I will definitely buy again.",Positive
+135,"I absolutely love this product, it works great!",Positive
+136,"Decent quality, but nothing extraordinary.",Neutral
+137,"The product is average, works as expected.",Neutral
+138,"An average experience, not much to say.",Neutral
+139,"An average experience, not much to say.",Neutral
+140,"A total waste of money, do not buy this.",Negative
+141,"Poor quality and bad service, not worth the money.",Negative
+142,"This was a terrible experience, I regret it completely.",Negative
+143,This is the best purchase I have made in a long time.,Positive
+144,"An average experience, not much to say.",Neutral
+145,"It's okay, nothing special but not bad either.",Neutral
+146,"It's okay, nothing special but not bad either.",Neutral
+147,This is the best purchase I have made in a long time.,Positive
+148,"A total waste of money, do not buy this.",Negative
+149,"It's okay, nothing special but not bad either.",Neutral
+150,"A total waste of money, do not buy this.",Negative
+151,"This was a terrible experience, I regret it completely.",Negative
+152,"I absolutely love this product, it works great!",Positive
+153,"The product is average, works as expected.",Neutral
+154,"It's okay, nothing special but not bad either.",Neutral
+155,"I absolutely love this product, it works great!",Positive
+156,"I am extremely disappointed, this product is awful.",Negative
+157,"The product is average, works as expected.",Neutral
+158,"Neither good nor bad, just a normal experience.",Neutral
+159,"Poor quality and bad service, not worth the money.",Negative
+160,"The product is average, works as expected.",Neutral
+161,Highly recommended! Exceeded my expectations.,Positive
+162,This is the best purchase I have made in a long time.,Positive
+163,"I am extremely disappointed, this product is awful.",Negative
+164,"Neither good nor bad, just a normal experience.",Neutral
+165,"Worst decision ever, I would not recommend this.",Negative
+166,"Neither good nor bad, just a normal experience.",Neutral
+167,"Fantastic quality, I will definitely buy again.",Positive
+168,"Fantastic quality, I will definitely buy again.",Positive
+169,"Worst decision ever, I would not recommend this.",Negative
+170,"I absolutely love this product, it works great!",Positive
+171,"Neither good nor bad, just a normal experience.",Neutral
+172,"I am extremely disappointed, this product is awful.",Negative
+173,"Neither good nor bad, just a normal experience.",Neutral
+174,"The product is average, works as expected.",Neutral
+175,"A total waste of money, do not buy this.",Negative
+176,"This was a terrible experience, I regret it completely.",Negative
+177,"An average experience, not much to say.",Neutral
+178,"The product is average, works as expected.",Neutral
+179,"This was a terrible experience, I regret it completely.",Negative
+180,"Fantastic quality, I will definitely buy again.",Positive
+181,"Worst decision ever, I would not recommend this.",Negative
+182,"An average experience, not much to say.",Neutral
+183,This is the best purchase I have made in a long time.,Positive
+184,"Neither good nor bad, just a normal experience.",Neutral
+185,Highly recommended! Exceeded my expectations.,Positive
+186,"I am extremely disappointed, this product is awful.",Negative
+187,"Worst decision ever, I would not recommend this.",Negative
+188,"A total waste of money, do not buy this.",Negative
+189,"The product is average, works as expected.",Neutral
+190,"This was a terrible experience, I regret it completely.",Negative
+191,"Decent quality, but nothing extraordinary.",Neutral
+192,This is the best purchase I have made in a long time.,Positive
+193,"The product is average, works as expected.",Neutral
+194,"I am extremely disappointed, this product is awful.",Negative
+195,"Worst decision ever, I would not recommend this.",Negative
+196,"I am extremely disappointed, this product is awful.",Negative
+197,"An average experience, not much to say.",Neutral
+198,"I am extremely disappointed, this product is awful.",Negative
+199,"The product is average, works as expected.",Neutral
+200,"Poor quality and bad service, not worth the money.",Negative
+201,"Decent quality, but nothing extraordinary.",Neutral
+202,"It's okay, nothing special but not bad either.",Neutral
+203,"This was a terrible experience, I regret it completely.",Negative
+204,This is the best purchase I have made in a long time.,Positive
+205,"I absolutely love this product, it works great!",Positive
+206,"Worst decision ever, I would not recommend this.",Negative
+207,Highly recommended! Exceeded my expectations.,Positive
+208,"Neither good nor bad, just a normal experience.",Neutral
+209,"Fantastic quality, I will definitely buy again.",Positive
+210,"Neither good nor bad, just a normal experience.",Neutral
+211,"The service was outstanding, I am very satisfied.",Positive
+212,"Decent quality, but nothing extraordinary.",Neutral
+213,"Worst decision ever, I would not recommend this.",Negative
+214,"I absolutely love this product, it works great!",Positive
+215,"It's okay, nothing special but not bad either.",Neutral
+216,"Fantastic quality, I will definitely buy again.",Positive
+217,"Fantastic quality, I will definitely buy again.",Positive
+218,Highly recommended! Exceeded my expectations.,Positive
+219,"The service was outstanding, I am very satisfied.",Positive
+220,"Fantastic quality, I will definitely buy again.",Positive
+221,"An average experience, not much to say.",Neutral
+222,"Poor quality and bad service, not worth the money.",Negative
+223,"Neither good nor bad, just a normal experience.",Neutral
+224,"It's okay, nothing special but not bad either.",Neutral
+225,Highly recommended! Exceeded my expectations.,Positive
+226,This is the best purchase I have made in a long time.,Positive
+227,"The service was outstanding, I am very satisfied.",Positive
+228,"A total waste of money, do not buy this.",Negative
+229,"I am extremely disappointed, this product is awful.",Negative
+230,"The service was outstanding, I am very satisfied.",Positive
+231,"Decent quality, but nothing extraordinary.",Neutral
+232,"Fantastic quality, I will definitely buy again.",Positive
+233,"The service was outstanding, I am very satisfied.",Positive
+234,"An average experience, not much to say.",Neutral
+235,"Neither good nor bad, just a normal experience.",Neutral
+236,"Poor quality and bad service, not worth the money.",Negative
+237,"It's okay, nothing special but not bad either.",Neutral
+238,"An average experience, not much to say.",Neutral
+239,"Decent quality, but nothing extraordinary.",Neutral
+240,"It's okay, nothing special but not bad either.",Neutral
+241,"I am extremely disappointed, this product is awful.",Negative
+242,"The service was outstanding, I am very satisfied.",Positive
+243,"A total waste of money, do not buy this.",Negative
+244,"I am extremely disappointed, this product is awful.",Negative
+245,"This was a terrible experience, I regret it completely.",Negative
+246,"A total waste of money, do not buy this.",Negative
+247,"I am extremely disappointed, this product is awful.",Negative
+248,"This was a terrible experience, I regret it completely.",Negative
+249,This is the best purchase I have made in a long time.,Positive
+250,"This was a terrible experience, I regret it completely.",Negative
+251,"The service was outstanding, I am very satisfied.",Positive
+252,"It's okay, nothing special but not bad either.",Neutral
+253,"The service was outstanding, I am very satisfied.",Positive
+254,"It's okay, nothing special but not bad either.",Neutral
+255,"I absolutely love this product, it works great!",Positive
+256,This is the best purchase I have made in a long time.,Positive
+257,"Neither good nor bad, just a normal experience.",Neutral
+258,"This was a terrible experience, I regret it completely.",Negative
+259,"This was a terrible experience, I regret it completely.",Negative
+260,"A total waste of money, do not buy this.",Negative
+261,"An average experience, not much to say.",Neutral
+262,"I am extremely disappointed, this product is awful.",Negative
+263,"The product is average, works as expected.",Neutral
+264,"Worst decision ever, I would not recommend this.",Negative
+265,"I am extremely disappointed, this product is awful.",Negative
+266,"Decent quality, but nothing extraordinary.",Neutral
+267,"Decent quality, but nothing extraordinary.",Neutral
+268,"The product is average, works as expected.",Neutral
+269,This is the best purchase I have made in a long time.,Positive
+270,"The product is average, works as expected.",Neutral
+271,"A total waste of money, do not buy this.",Negative
+272,"A total waste of money, do not buy this.",Negative
+273,"Neither good nor bad, just a normal experience.",Neutral
+274,"The service was outstanding, I am very satisfied.",Positive
+275,"I am extremely disappointed, this product is awful.",Negative
+276,"Fantastic quality, I will definitely buy again.",Positive
+277,"An average experience, not much to say.",Neutral
+278,Highly recommended! Exceeded my expectations.,Positive
+279,"Neither good nor bad, just a normal experience.",Neutral
+280,"Neither good nor bad, just a normal experience.",Neutral
+281,"It's okay, nothing special but not bad either.",Neutral
+282,"Decent quality, but nothing extraordinary.",Neutral
+283,"It's okay, nothing special but not bad either.",Neutral
+284,"A total waste of money, do not buy this.",Negative
+285,"This was a terrible experience, I regret it completely.",Negative
+286,"The product is average, works as expected.",Neutral
+287,"Worst decision ever, I would not recommend this.",Negative
+288,"A total waste of money, do not buy this.",Negative
+289,"Poor quality and bad service, not worth the money.",Negative
+290,"Fantastic quality, I will definitely buy again.",Positive
+291,"Decent quality, but nothing extraordinary.",Neutral
+292,"It's okay, nothing special but not bad either.",Neutral
+293,"An average experience, not much to say.",Neutral
+294,"Fantastic quality, I will definitely buy again.",Positive
+295,"I absolutely love this product, it works great!",Positive
+296,"I am extremely disappointed, this product is awful.",Negative
+297,"A total waste of money, do not buy this.",Negative
+298,"I absolutely love this product, it works great!",Positive
+299,"Fantastic quality, I will definitely buy again.",Positive
+300,"Decent quality, but nothing extraordinary.",Neutral
+301,"Poor quality and bad service, not worth the money.",Negative
+302,"Decent quality, but nothing extraordinary.",Neutral
+303,"I am extremely disappointed, this product is awful.",Negative
+304,"Decent quality, but nothing extraordinary.",Neutral
+305,"Neither good nor bad, just a normal experience.",Neutral
+306,Highly recommended! Exceeded my expectations.,Positive
+307,"Fantastic quality, I will definitely buy again.",Positive
+308,"Neither good nor bad, just a normal experience.",Neutral
+309,"I am extremely disappointed, this product is awful.",Negative
+310,"I absolutely love this product, it works great!",Positive
+311,Highly recommended! Exceeded my expectations.,Positive
+312,"The service was outstanding, I am very satisfied.",Positive
+313,"Poor quality and bad service, not worth the money.",Negative
+314,This is the best purchase I have made in a long time.,Positive
+315,"An average experience, not much to say.",Neutral
+316,"Decent quality, but nothing extraordinary.",Neutral
+317,"The product is average, works as expected.",Neutral
+318,"Neither good nor bad, just a normal experience.",Neutral
+319,Highly recommended! Exceeded my expectations.,Positive
+320,"A total waste of money, do not buy this.",Negative
+321,"This was a terrible experience, I regret it completely.",Negative
+322,Highly recommended! Exceeded my expectations.,Positive
+323,"A total waste of money, do not buy this.",Negative
+324,"Fantastic quality, I will definitely buy again.",Positive
+325,"An average experience, not much to say.",Neutral
+326,This is the best purchase I have made in a long time.,Positive
+327,"A total waste of money, do not buy this.",Negative
+328,"Neither good nor bad, just a normal experience.",Neutral
+329,"The product is average, works as expected.",Neutral
+330,"Worst decision ever, I would not recommend this.",Negative
+331,"Fantastic quality, I will definitely buy again.",Positive
+332,"I absolutely love this product, it works great!",Positive
+333,This is the best purchase I have made in a long time.,Positive
+334,"Worst decision ever, I would not recommend this.",Negative
+335,"It's okay, nothing special but not bad either.",Neutral
+336,Highly recommended! Exceeded my expectations.,Positive
+337,"Poor quality and bad service, not worth the money.",Negative
+338,"The service was outstanding, I am very satisfied.",Positive
+339,"Decent quality, but nothing extraordinary.",Neutral
+340,"Neither good nor bad, just a normal experience.",Neutral
+341,"This was a terrible experience, I regret it completely.",Negative
+342,This is the best purchase I have made in a long time.,Positive
+343,Highly recommended! Exceeded my expectations.,Positive
+344,"The service was outstanding, I am very satisfied.",Positive
+345,"A total waste of money, do not buy this.",Negative
+346,"Decent quality, but nothing extraordinary.",Neutral
+347,"I am extremely disappointed, this product is awful.",Negative
+348,"The product is average, works as expected.",Neutral
+349,"The product is average, works as expected.",Neutral
+350,"Neither good nor bad, just a normal experience.",Neutral
+351,"Neither good nor bad, just a normal experience.",Neutral
+352,"I am extremely disappointed, this product is awful.",Negative
+353,"A total waste of money, do not buy this.",Negative
+354,"An average experience, not much to say.",Neutral
+355,"This was a terrible experience, I regret it completely.",Negative
+356,"An average experience, not much to say.",Neutral
+357,"An average experience, not much to say.",Neutral
+358,This is the best purchase I have made in a long time.,Positive
+359,"Worst decision ever, I would not recommend this.",Negative
+360,"A total waste of money, do not buy this.",Negative
+361,Highly recommended! Exceeded my expectations.,Positive
+362,"This was a terrible experience, I regret it completely.",Negative
+363,"A total waste of money, do not buy this.",Negative
+364,"Fantastic quality, I will definitely buy again.",Positive
+365,"Decent quality, but nothing extraordinary.",Neutral
+366,"The product is average, works as expected.",Neutral
+367,"Neither good nor bad, just a normal experience.",Neutral
+368,"Decent quality, but nothing extraordinary.",Neutral
+369,"Worst decision ever, I would not recommend this.",Negative
+370,"A total waste of money, do not buy this.",Negative
+371,"The service was outstanding, I am very satisfied.",Positive
+372,"Poor quality and bad service, not worth the money.",Negative
+373,"A total waste of money, do not buy this.",Negative
+374,"Poor quality and bad service, not worth the money.",Negative
+375,"The product is average, works as expected.",Neutral
+376,"The service was outstanding, I am very satisfied.",Positive
+377,"It's okay, nothing special but not bad either.",Neutral
+378,"An average experience, not much to say.",Neutral
+379,"A total waste of money, do not buy this.",Negative
+380,"This was a terrible experience, I regret it completely.",Negative
+381,"An average experience, not much to say.",Neutral
+382,"Fantastic quality, I will definitely buy again.",Positive
+383,"An average experience, not much to say.",Neutral
+384,"An average experience, not much to say.",Neutral
+385,"A total waste of money, do not buy this.",Negative
+386,"A total waste of money, do not buy this.",Negative
+387,"I absolutely love this product, it works great!",Positive
+388,"This was a terrible experience, I regret it completely.",Negative
+389,"An average experience, not much to say.",Neutral
+390,This is the best purchase I have made in a long time.,Positive
+391,"The product is average, works as expected.",Neutral
+392,Highly recommended! Exceeded my expectations.,Positive
+393,"Fantastic quality, I will definitely buy again.",Positive
+394,"This was a terrible experience, I regret it completely.",Negative
+395,"I absolutely love this product, it works great!",Positive
+396,"Poor quality and bad service, not worth the money.",Negative
+397,"Decent quality, but nothing extraordinary.",Neutral
+398,"Poor quality and bad service, not worth the money.",Negative
+399,This is the best purchase I have made in a long time.,Positive
+400,Highly recommended! Exceeded my expectations.,Positive
+401,"An average experience, not much to say.",Neutral
+402,"The service was outstanding, I am very satisfied.",Positive
+403,"Neither good nor bad, just a normal experience.",Neutral
+404,"Neither good nor bad, just a normal experience.",Neutral
+405,"Worst decision ever, I would not recommend this.",Negative
+406,"Neither good nor bad, just a normal experience.",Neutral
+407,"Fantastic quality, I will definitely buy again.",Positive
+408,Highly recommended! Exceeded my expectations.,Positive
+409,"Poor quality and bad service, not worth the money.",Negative
+410,This is the best purchase I have made in a long time.,Positive
+411,Highly recommended! Exceeded my expectations.,Positive
+412,"I am extremely disappointed, this product is awful.",Negative
+413,Highly recommended! Exceeded my expectations.,Positive
+414,"An average experience, not much to say.",Neutral
+415,Highly recommended! Exceeded my expectations.,Positive
+416,"Neither good nor bad, just a normal experience.",Neutral
+417,Highly recommended! Exceeded my expectations.,Positive
+418,"Fantastic quality, I will definitely buy again.",Positive
+419,"This was a terrible experience, I regret it completely.",Negative
+420,"This was a terrible experience, I regret it completely.",Negative
+421,"I am extremely disappointed, this product is awful.",Negative
+422,"A total waste of money, do not buy this.",Negative
+423,"Worst decision ever, I would not recommend this.",Negative
+424,"Decent quality, but nothing extraordinary.",Neutral
+425,"The service was outstanding, I am very satisfied.",Positive
+426,"An average experience, not much to say.",Neutral
+427,"The product is average, works as expected.",Neutral
+428,"Fantastic quality, I will definitely buy again.",Positive
+429,"This was a terrible experience, I regret it completely.",Negative
+430,"A total waste of money, do not buy this.",Negative
+431,"The product is average, works as expected.",Neutral
+432,"I am extremely disappointed, this product is awful.",Negative
+433,"This was a terrible experience, I regret it completely.",Negative
+434,"It's okay, nothing special but not bad either.",Neutral
+435,"The product is average, works as expected.",Neutral
+436,Highly recommended! Exceeded my expectations.,Positive
+437,"Fantastic quality, I will definitely buy again.",Positive
+438,"Neither good nor bad, just a normal experience.",Neutral
+439,"A total waste of money, do not buy this.",Negative
+440,"Decent quality, but nothing extraordinary.",Neutral
+441,"It's okay, nothing special but not bad either.",Neutral
+442,Highly recommended! Exceeded my expectations.,Positive
+443,"An average experience, not much to say.",Neutral
+444,"Decent quality, but nothing extraordinary.",Neutral
+445,Highly recommended! Exceeded my expectations.,Positive
+446,"Worst decision ever, I would not recommend this.",Negative
+447,"I am extremely disappointed, this product is awful.",Negative
+448,Highly recommended! Exceeded my expectations.,Positive
+449,"The service was outstanding, I am very satisfied.",Positive
+450,"Poor quality and bad service, not worth the money.",Negative
+451,"Fantastic quality, I will definitely buy again.",Positive
+452,"This was a terrible experience, I regret it completely.",Negative
+453,This is the best purchase I have made in a long time.,Positive
+454,"It's okay, nothing special but not bad either.",Neutral
+455,"Neither good nor bad, just a normal experience.",Neutral
+456,"Decent quality, but nothing extraordinary.",Neutral
+457,Highly recommended! Exceeded my expectations.,Positive
+458,"Fantastic quality, I will definitely buy again.",Positive
+459,"Fantastic quality, I will definitely buy again.",Positive
+460,"Worst decision ever, I would not recommend this.",Negative
+461,"I am extremely disappointed, this product is awful.",Negative
+462,"An average experience, not much to say.",Neutral
+463,"The product is average, works as expected.",Neutral
+464,"It's okay, nothing special but not bad either.",Neutral
+465,"I absolutely love this product, it works great!",Positive
+466,"An average experience, not much to say.",Neutral
+467,"It's okay, nothing special but not bad either.",Neutral
+468,"Neither good nor bad, just a normal experience.",Neutral
+469,"I absolutely love this product, it works great!",Positive
+470,"Worst decision ever, I would not recommend this.",Negative
+471,Highly recommended! Exceeded my expectations.,Positive
+472,"This was a terrible experience, I regret it completely.",Negative
+473,"An average experience, not much to say.",Neutral
+474,This is the best purchase I have made in a long time.,Positive
+475,"Worst decision ever, I would not recommend this.",Negative
+476,"Worst decision ever, I would not recommend this.",Negative
+477,"An average experience, not much to say.",Neutral
+478,"Fantastic quality, I will definitely buy again.",Positive
+479,"The service was outstanding, I am very satisfied.",Positive
+480,"Decent quality, but nothing extraordinary.",Neutral
+481,"This was a terrible experience, I regret it completely.",Negative
+482,"I am extremely disappointed, this product is awful.",Negative
+483,"The product is average, works as expected.",Neutral
+484,"An average experience, not much to say.",Neutral
+485,"Decent quality, but nothing extraordinary.",Neutral
+486,"Poor quality and bad service, not worth the money.",Negative
+487,"It's okay, nothing special but not bad either.",Neutral
+488,Highly recommended! Exceeded my expectations.,Positive
+489,"Fantastic quality, I will definitely buy again.",Positive
+490,"I absolutely love this product, it works great!",Positive
+491,This is the best purchase I have made in a long time.,Positive
+492,"Worst decision ever, I would not recommend this.",Negative
+493,"I am extremely disappointed, this product is awful.",Negative
+494,"Worst decision ever, I would not recommend this.",Negative
+495,"I am extremely disappointed, this product is awful.",Negative
+496,Highly recommended! Exceeded my expectations.,Positive
+497,"This was a terrible experience, I regret it completely.",Negative
+498,"A total waste of money, do not buy this.",Negative
+499,"The service was outstanding, I am very satisfied.",Positive
+500,"Neither good nor bad, just a normal experience.",Neutral
+501,This is the best purchase I have made in a long time.,Positive
+502,"Decent quality, but nothing extraordinary.",Neutral
+503,"Fantastic quality, I will definitely buy again.",Positive
+504,"It's okay, nothing special but not bad either.",Neutral
+505,"This was a terrible experience, I regret it completely.",Negative
+506,"The product is average, works as expected.",Neutral
+507,"The service was outstanding, I am very satisfied.",Positive
+508,"This was a terrible experience, I regret it completely.",Negative
+509,This is the best purchase I have made in a long time.,Positive
+510,"The product is average, works as expected.",Neutral
+511,"The service was outstanding, I am very satisfied.",Positive
+512,"The product is average, works as expected.",Neutral
+513,"The product is average, works as expected.",Neutral
+514,"The service was outstanding, I am very satisfied.",Positive
+515,This is the best purchase I have made in a long time.,Positive
+516,"Poor quality and bad service, not worth the money.",Negative
+517,"It's okay, nothing special but not bad either.",Neutral
+518,"A total waste of money, do not buy this.",Negative
+519,"I am extremely disappointed, this product is awful.",Negative
+520,"Neither good nor bad, just a normal experience.",Neutral
+521,"Fantastic quality, I will definitely buy again.",Positive
+522,Highly recommended! Exceeded my expectations.,Positive
+523,"This was a terrible experience, I regret it completely.",Negative
+524,"An average experience, not much to say.",Neutral
+525,"The product is average, works as expected.",Neutral
+526,"The service was outstanding, I am very satisfied.",Positive
+527,"Fantastic quality, I will definitely buy again.",Positive
+528,"I am extremely disappointed, this product is awful.",Negative
+529,"The service was outstanding, I am very satisfied.",Positive
+530,"It's okay, nothing special but not bad either.",Neutral
+531,"Worst decision ever, I would not recommend this.",Negative
+532,"I am extremely disappointed, this product is awful.",Negative
+533,"An average experience, not much to say.",Neutral
+534,Highly recommended! Exceeded my expectations.,Positive
+535,"Neither good nor bad, just a normal experience.",Neutral
+536,"The product is average, works as expected.",Neutral
+537,"An average experience, not much to say.",Neutral
+538,"An average experience, not much to say.",Neutral
+539,"The product is average, works as expected.",Neutral
+540,"I absolutely love this product, it works great!",Positive
+541,"Worst decision ever, I would not recommend this.",Negative
+542,"Fantastic quality, I will definitely buy again.",Positive
+543,"It's okay, nothing special but not bad either.",Neutral
+544,"I am extremely disappointed, this product is awful.",Negative
+545,Highly recommended! Exceeded my expectations.,Positive
+546,Highly recommended! Exceeded my expectations.,Positive
+547,"The service was outstanding, I am very satisfied.",Positive
+548,"The service was outstanding, I am very satisfied.",Positive
+549,"I absolutely love this product, it works great!",Positive
+550,"It's okay, nothing special but not bad either.",Neutral
+551,"Poor quality and bad service, not worth the money.",Negative
+552,"Decent quality, but nothing extraordinary.",Neutral
+553,"A total waste of money, do not buy this.",Negative
+554,"I am extremely disappointed, this product is awful.",Negative
+555,"Worst decision ever, I would not recommend this.",Negative
+556,"Fantastic quality, I will definitely buy again.",Positive
+557,"An average experience, not much to say.",Neutral
+558,"Poor quality and bad service, not worth the money.",Negative
+559,"The service was outstanding, I am very satisfied.",Positive
+560,"Worst decision ever, I would not recommend this.",Negative
+561,"I absolutely love this product, it works great!",Positive
+562,"I am extremely disappointed, this product is awful.",Negative
+563,"It's okay, nothing special but not bad either.",Neutral
+564,"I am extremely disappointed, this product is awful.",Negative
+565,This is the best purchase I have made in a long time.,Positive
+566,"Decent quality, but nothing extraordinary.",Neutral
+567,"It's okay, nothing special but not bad either.",Neutral
+568,"I am extremely disappointed, this product is awful.",Negative
+569,"I am extremely disappointed, this product is awful.",Negative
+570,"Decent quality, but nothing extraordinary.",Neutral
+571,"A total waste of money, do not buy this.",Negative
+572,"Neither good nor bad, just a normal experience.",Neutral
+573,"Fantastic quality, I will definitely buy again.",Positive
+574,"The service was outstanding, I am very satisfied.",Positive
+575,"This was a terrible experience, I regret it completely.",Negative
+576,"An average experience, not much to say.",Neutral
+577,"This was a terrible experience, I regret it completely.",Negative
+578,"It's okay, nothing special but not bad either.",Neutral
+579,"This was a terrible experience, I regret it completely.",Negative
+580,"A total waste of money, do not buy this.",Negative
+581,"A total waste of money, do not buy this.",Negative
+582,"Decent quality, but nothing extraordinary.",Neutral
+583,"Decent quality, but nothing extraordinary.",Neutral
+584,"Decent quality, but nothing extraordinary.",Neutral
+585,"Decent quality, but nothing extraordinary.",Neutral
+586,"Worst decision ever, I would not recommend this.",Negative
+587,"Worst decision ever, I would not recommend this.",Negative
+588,"A total waste of money, do not buy this.",Negative
+589,"Fantastic quality, I will definitely buy again.",Positive
+590,"This was a terrible experience, I regret it completely.",Negative
+591,"An average experience, not much to say.",Neutral
+592,"Poor quality and bad service, not worth the money.",Negative
+593,"The product is average, works as expected.",Neutral
+594,"This was a terrible experience, I regret it completely.",Negative
+595,"This was a terrible experience, I regret it completely.",Negative
+596,"Decent quality, but nothing extraordinary.",Neutral
+597,"An average experience, not much to say.",Neutral
+598,"Poor quality and bad service, not worth the money.",Negative
+599,"It's okay, nothing special but not bad either.",Neutral
+600,"A total waste of money, do not buy this.",Negative
+601,"Poor quality and bad service, not worth the money.",Negative
+602,This is the best purchase I have made in a long time.,Positive
+603,"A total waste of money, do not buy this.",Negative
+604,"I am extremely disappointed, this product is awful.",Negative
+605,"I am extremely disappointed, this product is awful.",Negative
+606,"The service was outstanding, I am very satisfied.",Positive
+607,"Fantastic quality, I will definitely buy again.",Positive
+608,"The service was outstanding, I am very satisfied.",Positive
+609,Highly recommended! Exceeded my expectations.,Positive
+610,"Fantastic quality, I will definitely buy again.",Positive
+611,"Worst decision ever, I would not recommend this.",Negative
+612,"Poor quality and bad service, not worth the money.",Negative
+613,"A total waste of money, do not buy this.",Negative
+614,"A total waste of money, do not buy this.",Negative
+615,"I am extremely disappointed, this product is awful.",Negative
+616,"I absolutely love this product, it works great!",Positive
+617,"Fantastic quality, I will definitely buy again.",Positive
+618,"A total waste of money, do not buy this.",Negative
+619,"The product is average, works as expected.",Neutral
+620,"Neither good nor bad, just a normal experience.",Neutral
+621,"I absolutely love this product, it works great!",Positive
+622,This is the best purchase I have made in a long time.,Positive
+623,"This was a terrible experience, I regret it completely.",Negative
+624,"I am extremely disappointed, this product is awful.",Negative
+625,"This was a terrible experience, I regret it completely.",Negative
+626,"Decent quality, but nothing extraordinary.",Neutral
+627,Highly recommended! Exceeded my expectations.,Positive
+628,"I absolutely love this product, it works great!",Positive
+629,"Neither good nor bad, just a normal experience.",Neutral
+630,"I am extremely disappointed, this product is awful.",Negative
+631,"The service was outstanding, I am very satisfied.",Positive
+632,"The service was outstanding, I am very satisfied.",Positive
+633,"This was a terrible experience, I regret it completely.",Negative
+634,"A total waste of money, do not buy this.",Negative
+635,"The service was outstanding, I am very satisfied.",Positive
+636,This is the best purchase I have made in a long time.,Positive
+637,"It's okay, nothing special but not bad either.",Neutral
+638,"It's okay, nothing special but not bad either.",Neutral
+639,"The service was outstanding, I am very satisfied.",Positive
+640,"A total waste of money, do not buy this.",Negative
+641,Highly recommended! Exceeded my expectations.,Positive
+642,"The product is average, works as expected.",Neutral
+643,"I am extremely disappointed, this product is awful.",Negative
+644,"Worst decision ever, I would not recommend this.",Negative
+645,"An average experience, not much to say.",Neutral
+646,"Worst decision ever, I would not recommend this.",Negative
+647,"Fantastic quality, I will definitely buy again.",Positive
+648,"This was a terrible experience, I regret it completely.",Negative
+649,Highly recommended! Exceeded my expectations.,Positive
+650,This is the best purchase I have made in a long time.,Positive
+651,"It's okay, nothing special but not bad either.",Neutral
+652,"An average experience, not much to say.",Neutral
+653,"A total waste of money, do not buy this.",Negative
+654,"The service was outstanding, I am very satisfied.",Positive
+655,Highly recommended! Exceeded my expectations.,Positive
+656,"An average experience, not much to say.",Neutral
+657,"Decent quality, but nothing extraordinary.",Neutral
+658,"It's okay, nothing special but not bad either.",Neutral
+659,This is the best purchase I have made in a long time.,Positive
+660,This is the best purchase I have made in a long time.,Positive
+661,"The product is average, works as expected.",Neutral
+662,"I absolutely love this product, it works great!",Positive
+663,"I absolutely love this product, it works great!",Positive
+664,"I absolutely love this product, it works great!",Positive
+665,"Worst decision ever, I would not recommend this.",Negative
+666,"This was a terrible experience, I regret it completely.",Negative
+667,"This was a terrible experience, I regret it completely.",Negative
+668,"This was a terrible experience, I regret it completely.",Negative
+669,"The product is average, works as expected.",Neutral
+670,"I am extremely disappointed, this product is awful.",Negative
+671,"An average experience, not much to say.",Neutral
+672,Highly recommended! Exceeded my expectations.,Positive
+673,"Worst decision ever, I would not recommend this.",Negative
+674,"A total waste of money, do not buy this.",Negative
+675,"Poor quality and bad service, not worth the money.",Negative
+676,"The product is average, works as expected.",Neutral
+677,"I am extremely disappointed, this product is awful.",Negative
+678,"Worst decision ever, I would not recommend this.",Negative
+679,"Fantastic quality, I will definitely buy again.",Positive
+680,"Worst decision ever, I would not recommend this.",Negative
+681,"The service was outstanding, I am very satisfied.",Positive
+682,"A total waste of money, do not buy this.",Negative
+683,"The service was outstanding, I am very satisfied.",Positive
+684,"This was a terrible experience, I regret it completely.",Negative
+685,"Poor quality and bad service, not worth the money.",Negative
+686,"I absolutely love this product, it works great!",Positive
+687,"An average experience, not much to say.",Neutral
+688,"Fantastic quality, I will definitely buy again.",Positive
+689,"The service was outstanding, I am very satisfied.",Positive
+690,"Worst decision ever, I would not recommend this.",Negative
+691,"Neither good nor bad, just a normal experience.",Neutral
+692,"I absolutely love this product, it works great!",Positive
+693,"Fantastic quality, I will definitely buy again.",Positive
+694,"Neither good nor bad, just a normal experience.",Neutral
+695,This is the best purchase I have made in a long time.,Positive
+696,Highly recommended! Exceeded my expectations.,Positive
+697,"The service was outstanding, I am very satisfied.",Positive
+698,"The service was outstanding, I am very satisfied.",Positive
+699,"It's okay, nothing special but not bad either.",Neutral
+700,"Decent quality, but nothing extraordinary.",Neutral
+701,"Poor quality and bad service, not worth the money.",Negative
+702,"An average experience, not much to say.",Neutral
+703,"A total waste of money, do not buy this.",Negative
+704,"Poor quality and bad service, not worth the money.",Negative
+705,"An average experience, not much to say.",Neutral
+706,"Neither good nor bad, just a normal experience.",Neutral
+707,This is the best purchase I have made in a long time.,Positive
+708,"Decent quality, but nothing extraordinary.",Neutral
+709,"Worst decision ever, I would not recommend this.",Negative
+710,"Poor quality and bad service, not worth the money.",Negative
+711,"I am extremely disappointed, this product is awful.",Negative
+712,"Decent quality, but nothing extraordinary.",Neutral
+713,"I absolutely love this product, it works great!",Positive
+714,"It's okay, nothing special but not bad either.",Neutral
+715,"Fantastic quality, I will definitely buy again.",Positive
+716,"This was a terrible experience, I regret it completely.",Negative
+717,"I absolutely love this product, it works great!",Positive
+718,"The service was outstanding, I am very satisfied.",Positive
+719,"Neither good nor bad, just a normal experience.",Neutral
+720,"Worst decision ever, I would not recommend this.",Negative
+721,Highly recommended! Exceeded my expectations.,Positive
+722,"Fantastic quality, I will definitely buy again.",Positive
+723,"I absolutely love this product, it works great!",Positive
+724,"A total waste of money, do not buy this.",Negative
+725,This is the best purchase I have made in a long time.,Positive
+726,Highly recommended! Exceeded my expectations.,Positive
+727,This is the best purchase I have made in a long time.,Positive
+728,"This was a terrible experience, I regret it completely.",Negative
+729,"The service was outstanding, I am very satisfied.",Positive
+730,Highly recommended! Exceeded my expectations.,Positive
+731,This is the best purchase I have made in a long time.,Positive
+732,Highly recommended! Exceeded my expectations.,Positive
+733,"The product is average, works as expected.",Neutral
+734,This is the best purchase I have made in a long time.,Positive
+735,"Worst decision ever, I would not recommend this.",Negative
+736,"It's okay, nothing special but not bad either.",Neutral
+737,"This was a terrible experience, I regret it completely.",Negative
+738,"Decent quality, but nothing extraordinary.",Neutral
+739,"The product is average, works as expected.",Neutral
+740,"A total waste of money, do not buy this.",Negative
+741,"I am extremely disappointed, this product is awful.",Negative
+742,"The service was outstanding, I am very satisfied.",Positive
+743,"An average experience, not much to say.",Neutral
+744,"An average experience, not much to say.",Neutral
+745,"The product is average, works as expected.",Neutral
+746,"Worst decision ever, I would not recommend this.",Negative
+747,"Poor quality and bad service, not worth the money.",Negative
+748,Highly recommended! Exceeded my expectations.,Positive
+749,"An average experience, not much to say.",Neutral
+750,"Neither good nor bad, just a normal experience.",Neutral
+751,"The service was outstanding, I am very satisfied.",Positive
+752,"I absolutely love this product, it works great!",Positive
+753,"Fantastic quality, I will definitely buy again.",Positive
+754,"Poor quality and bad service, not worth the money.",Negative
+755,Highly recommended! Exceeded my expectations.,Positive
+756,"Fantastic quality, I will definitely buy again.",Positive
+757,"This was a terrible experience, I regret it completely.",Negative
+758,"The service was outstanding, I am very satisfied.",Positive
+759,"It's okay, nothing special but not bad either.",Neutral
+760,"This was a terrible experience, I regret it completely.",Negative
+761,Highly recommended! Exceeded my expectations.,Positive
+762,"Neither good nor bad, just a normal experience.",Neutral
+763,"Decent quality, but nothing extraordinary.",Neutral
+764,"Worst decision ever, I would not recommend this.",Negative
+765,This is the best purchase I have made in a long time.,Positive
+766,"An average experience, not much to say.",Neutral
+767,"Worst decision ever, I would not recommend this.",Negative
+768,Highly recommended! Exceeded my expectations.,Positive
+769,This is the best purchase I have made in a long time.,Positive
+770,Highly recommended! Exceeded my expectations.,Positive
+771,"An average experience, not much to say.",Neutral
+772,"Worst decision ever, I would not recommend this.",Negative
+773,Highly recommended! Exceeded my expectations.,Positive
+774,"Neither good nor bad, just a normal experience.",Neutral
+775,"I absolutely love this product, it works great!",Positive
+776,"I absolutely love this product, it works great!",Positive
+777,"Poor quality and bad service, not worth the money.",Negative
+778,"An average experience, not much to say.",Neutral
+779,"I am extremely disappointed, this product is awful.",Negative
+780,"The product is average, works as expected.",Neutral
+781,"Poor quality and bad service, not worth the money.",Negative
+782,"A total waste of money, do not buy this.",Negative
+783,Highly recommended! Exceeded my expectations.,Positive
+784,"Worst decision ever, I would not recommend this.",Negative
+785,"Worst decision ever, I would not recommend this.",Negative
+786,"The service was outstanding, I am very satisfied.",Positive
+787,"It's okay, nothing special but not bad either.",Neutral
+788,This is the best purchase I have made in a long time.,Positive
+789,"This was a terrible experience, I regret it completely.",Negative
+790,"Fantastic quality, I will definitely buy again.",Positive
+791,"The product is average, works as expected.",Neutral
+792,"It's okay, nothing special but not bad either.",Neutral
+793,"This was a terrible experience, I regret it completely.",Negative
+794,"Worst decision ever, I would not recommend this.",Negative
+795,"The service was outstanding, I am very satisfied.",Positive
+796,"I absolutely love this product, it works great!",Positive
+797,"Decent quality, but nothing extraordinary.",Neutral
+798,This is the best purchase I have made in a long time.,Positive
+799,"The product is average, works as expected.",Neutral
+800,"A total waste of money, do not buy this.",Negative
+801,"Neither good nor bad, just a normal experience.",Neutral
+802,"The product is average, works as expected.",Neutral
+803,"Neither good nor bad, just a normal experience.",Neutral
+804,This is the best purchase I have made in a long time.,Positive
+805,"It's okay, nothing special but not bad either.",Neutral
+806,"This was a terrible experience, I regret it completely.",Negative
+807,"The product is average, works as expected.",Neutral
+808,"An average experience, not much to say.",Neutral
+809,"Neither good nor bad, just a normal experience.",Neutral
+810,"A total waste of money, do not buy this.",Negative
+811,"Worst decision ever, I would not recommend this.",Negative
+812,"I am extremely disappointed, this product is awful.",Negative
+813,"An average experience, not much to say.",Neutral
+814,"I am extremely disappointed, this product is awful.",Negative
+815,"I absolutely love this product, it works great!",Positive
+816,"The service was outstanding, I am very satisfied.",Positive
+817,"I absolutely love this product, it works great!",Positive
+818,"Worst decision ever, I would not recommend this.",Negative
+819,This is the best purchase I have made in a long time.,Positive
+820,"Neither good nor bad, just a normal experience.",Neutral
+821,"Fantastic quality, I will definitely buy again.",Positive
+822,"A total waste of money, do not buy this.",Negative
+823,"Fantastic quality, I will definitely buy again.",Positive
+824,"Worst decision ever, I would not recommend this.",Negative
+825,"Fantastic quality, I will definitely buy again.",Positive
+826,"Worst decision ever, I would not recommend this.",Negative
+827,"Neither good nor bad, just a normal experience.",Neutral
+828,Highly recommended! Exceeded my expectations.,Positive
+829,"Fantastic quality, I will definitely buy again.",Positive
+830,"A total waste of money, do not buy this.",Negative
+831,"Neither good nor bad, just a normal experience.",Neutral
+832,"The service was outstanding, I am very satisfied.",Positive
+833,"I absolutely love this product, it works great!",Positive
+834,"Decent quality, but nothing extraordinary.",Neutral
+835,"I absolutely love this product, it works great!",Positive
+836,Highly recommended! Exceeded my expectations.,Positive
+837,"An average experience, not much to say.",Neutral
+838,"This was a terrible experience, I regret it completely.",Negative
+839,"I am extremely disappointed, this product is awful.",Negative
+840,"Decent quality, but nothing extraordinary.",Neutral
+841,"Fantastic quality, I will definitely buy again.",Positive
+842,"This was a terrible experience, I regret it completely.",Negative
+843,"Neither good nor bad, just a normal experience.",Neutral
+844,"I absolutely love this product, it works great!",Positive
+845,"Worst decision ever, I would not recommend this.",Negative
+846,"This was a terrible experience, I regret it completely.",Negative
+847,"I absolutely love this product, it works great!",Positive
+848,"This was a terrible experience, I regret it completely.",Negative
+849,Highly recommended! Exceeded my expectations.,Positive
+850,"Decent quality, but nothing extraordinary.",Neutral
+851,"I am extremely disappointed, this product is awful.",Negative
+852,"I absolutely love this product, it works great!",Positive
+853,"A total waste of money, do not buy this.",Negative
+854,Highly recommended! Exceeded my expectations.,Positive
+855,"Decent quality, but nothing extraordinary.",Neutral
+856,"I absolutely love this product, it works great!",Positive
+857,"I absolutely love this product, it works great!",Positive
+858,"An average experience, not much to say.",Neutral
+859,"An average experience, not much to say.",Neutral
+860,Highly recommended! Exceeded my expectations.,Positive
+861,"A total waste of money, do not buy this.",Negative
+862,"Poor quality and bad service, not worth the money.",Negative
+863,"A total waste of money, do not buy this.",Negative
+864,"Decent quality, but nothing extraordinary.",Neutral
+865,"I absolutely love this product, it works great!",Positive
+866,"Worst decision ever, I would not recommend this.",Negative
+867,"It's okay, nothing special but not bad either.",Neutral
+868,"I absolutely love this product, it works great!",Positive
+869,"Fantastic quality, I will definitely buy again.",Positive
+870,"A total waste of money, do not buy this.",Negative
+871,"This was a terrible experience, I regret it completely.",Negative
+872,"Neither good nor bad, just a normal experience.",Neutral
+873,"I am extremely disappointed, this product is awful.",Negative
+874,"Neither good nor bad, just a normal experience.",Neutral
+875,"Decent quality, but nothing extraordinary.",Neutral
+876,"I am extremely disappointed, this product is awful.",Negative
+877,"Neither good nor bad, just a normal experience.",Neutral
+878,"It's okay, nothing special but not bad either.",Neutral
+879,"Decent quality, but nothing extraordinary.",Neutral
+880,"This was a terrible experience, I regret it completely.",Negative
+881,"Neither good nor bad, just a normal experience.",Neutral
+882,"It's okay, nothing special but not bad either.",Neutral
+883,"Poor quality and bad service, not worth the money.",Negative
+884,"An average experience, not much to say.",Neutral
+885,This is the best purchase I have made in a long time.,Positive
+886,This is the best purchase I have made in a long time.,Positive
+887,Highly recommended! Exceeded my expectations.,Positive
+888,"This was a terrible experience, I regret it completely.",Negative
+889,"A total waste of money, do not buy this.",Negative
+890,"The service was outstanding, I am very satisfied.",Positive
+891,"A total waste of money, do not buy this.",Negative
+892,This is the best purchase I have made in a long time.,Positive
+893,"I absolutely love this product, it works great!",Positive
+894,"A total waste of money, do not buy this.",Negative
+895,"Fantastic quality, I will definitely buy again.",Positive
+896,"Worst decision ever, I would not recommend this.",Negative
+897,"Neither good nor bad, just a normal experience.",Neutral
+898,"A total waste of money, do not buy this.",Negative
+899,"I absolutely love this product, it works great!",Positive
+900,"An average experience, not much to say.",Neutral
+901,"The product is average, works as expected.",Neutral
+902,"Neither good nor bad, just a normal experience.",Neutral
+903,This is the best purchase I have made in a long time.,Positive
+904,"Decent quality, but nothing extraordinary.",Neutral
+905,"This was a terrible experience, I regret it completely.",Negative
+906,"Worst decision ever, I would not recommend this.",Negative
+907,"A total waste of money, do not buy this.",Negative
+908,Highly recommended! Exceeded my expectations.,Positive
+909,"The service was outstanding, I am very satisfied.",Positive
+910,"Worst decision ever, I would not recommend this.",Negative
+911,"An average experience, not much to say.",Neutral
+912,"This was a terrible experience, I regret it completely.",Negative
+913,"Fantastic quality, I will definitely buy again.",Positive
+914,Highly recommended! Exceeded my expectations.,Positive
+915,"The service was outstanding, I am very satisfied.",Positive
+916,"It's okay, nothing special but not bad either.",Neutral
+917,"Fantastic quality, I will definitely buy again.",Positive
+918,"I absolutely love this product, it works great!",Positive
+919,"Worst decision ever, I would not recommend this.",Negative
+920,"I am extremely disappointed, this product is awful.",Negative
+921,"I absolutely love this product, it works great!",Positive
+922,"The product is average, works as expected.",Neutral
+923,"The service was outstanding, I am very satisfied.",Positive
+924,This is the best purchase I have made in a long time.,Positive
+925,"The product is average, works as expected.",Neutral
+926,"An average experience, not much to say.",Neutral
+927,"Poor quality and bad service, not worth the money.",Negative
+928,"I am extremely disappointed, this product is awful.",Negative
+929,Highly recommended! Exceeded my expectations.,Positive
+930,"The product is average, works as expected.",Neutral
+931,"An average experience, not much to say.",Neutral
+932,This is the best purchase I have made in a long time.,Positive
+933,This is the best purchase I have made in a long time.,Positive
+934,"Decent quality, but nothing extraordinary.",Neutral
+935,This is the best purchase I have made in a long time.,Positive
+936,"I am extremely disappointed, this product is awful.",Negative
+937,Highly recommended! Exceeded my expectations.,Positive
+938,"Fantastic quality, I will definitely buy again.",Positive
+939,Highly recommended! Exceeded my expectations.,Positive
+940,This is the best purchase I have made in a long time.,Positive
+941,"This was a terrible experience, I regret it completely.",Negative
+942,"This was a terrible experience, I regret it completely.",Negative
+943,"Fantastic quality, I will definitely buy again.",Positive
+944,"Decent quality, but nothing extraordinary.",Neutral
+945,"This was a terrible experience, I regret it completely.",Negative
+946,"Neither good nor bad, just a normal experience.",Neutral
+947,"The service was outstanding, I am very satisfied.",Positive
+948,"Poor quality and bad service, not worth the money.",Negative
+949,"Neither good nor bad, just a normal experience.",Neutral
+950,"I absolutely love this product, it works great!",Positive
+951,"I am extremely disappointed, this product is awful.",Negative
+952,"Poor quality and bad service, not worth the money.",Negative
+953,This is the best purchase I have made in a long time.,Positive
+954,"This was a terrible experience, I regret it completely.",Negative
+955,"A total waste of money, do not buy this.",Negative
+956,"The product is average, works as expected.",Neutral
+957,"Worst decision ever, I would not recommend this.",Negative
+958,"An average experience, not much to say.",Neutral
+959,"A total waste of money, do not buy this.",Negative
+960,"Poor quality and bad service, not worth the money.",Negative
+961,"A total waste of money, do not buy this.",Negative
+962,Highly recommended! Exceeded my expectations.,Positive
+963,"The product is average, works as expected.",Neutral
+964,Highly recommended! Exceeded my expectations.,Positive
+965,"I am extremely disappointed, this product is awful.",Negative
+966,"Poor quality and bad service, not worth the money.",Negative
+967,"Decent quality, but nothing extraordinary.",Neutral
+968,"Fantastic quality, I will definitely buy again.",Positive
+969,"Neither good nor bad, just a normal experience.",Neutral
+970,"The product is average, works as expected.",Neutral
+971,"I am extremely disappointed, this product is awful.",Negative
+972,"It's okay, nothing special but not bad either.",Neutral
+973,"Worst decision ever, I would not recommend this.",Negative
+974,"I absolutely love this product, it works great!",Positive
+975,This is the best purchase I have made in a long time.,Positive
+976,"Worst decision ever, I would not recommend this.",Negative
+977,"Poor quality and bad service, not worth the money.",Negative
+978,"I absolutely love this product, it works great!",Positive
+979,"A total waste of money, do not buy this.",Negative
+980,"Neither good nor bad, just a normal experience.",Neutral
+981,"Fantastic quality, I will definitely buy again.",Positive
+982,"Decent quality, but nothing extraordinary.",Neutral
+983,Highly recommended! Exceeded my expectations.,Positive
+984,"This was a terrible experience, I regret it completely.",Negative
+985,"Neither good nor bad, just a normal experience.",Neutral
+986,"I am extremely disappointed, this product is awful.",Negative
+987,"A total waste of money, do not buy this.",Negative
+988,Highly recommended! Exceeded my expectations.,Positive
+989,This is the best purchase I have made in a long time.,Positive
+990,"Poor quality and bad service, not worth the money.",Negative
+991,This is the best purchase I have made in a long time.,Positive
+992,"Poor quality and bad service, not worth the money.",Negative
+993,"An average experience, not much to say.",Neutral
+994,"Worst decision ever, I would not recommend this.",Negative
+995,"The product is average, works as expected.",Neutral
+996,"It's okay, nothing special but not bad either.",Neutral
+997,"It's okay, nothing special but not bad either.",Neutral
+998,"Poor quality and bad service, not worth the money.",Negative
+999,"A total waste of money, do not buy this.",Negative
+1000,"I absolutely love this product, it works great!",Positive
